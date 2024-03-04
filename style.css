@@ -1,0 +1,19 @@
+
+*{
+    margin: 0px;
+}
+.container{
+    height:60px ;
+    background-color: black;
+    display: flex;
+    justify-content:flex-end;
+    gap: 30px;
+    align-items: center;
+
+
+}
+
+.btn{
+    margin: 20px;
+
+}
